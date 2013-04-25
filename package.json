@@ -1,6 +1,6 @@
 {
   "name": "deviate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Redirecting middlware for express or node.js ",
   "scripts": {
     "test": "mocha -R spec"
