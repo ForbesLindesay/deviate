@@ -16,11 +16,12 @@ var deviate = require('deviate');
 var express = require('express');
 var app = express();
 
-app.get('/:number', deviate(301, '/post/:number'));
 app.get('/random', deviate(function (req) { return '/post/' + Math.random(); }));
 
-app.get('/page/:no/next', deviate('/page/[1 + :no]'));
-app.get('/page/:no/next', deviate('/page/[-1 + :no]'));
+app.get('/page/:no/next', deviate('/page/[Number:no + 1]'));
+app.get('/page/:no/prev', deviate('/page/[Number:no - 1]'));
+
+app.get('/:number', deviate(301, '/post/:number'));
 
 app.listen(3000);
 ```

@@ -3,13 +3,18 @@
   "version": "0.0.0",
   "description": "Redirecting middlware for express or node.js ",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha -R spec"
   },
   "repository": { "type": "git", "url": "https://github.com/ForbesLindesay/deviate.git" },
   "keywords": [ "express", "routing", "template", "redirect", "expression" ],
   "author": "ForbesLindesay",
   "license": "MIT",
   "dependencies": {
-    "ert": "~1.0.0"
+    "ert": "~1.0"
+  },
+  "devDependencies": {
+    "hyperquest": "~0",
+    "express": "~3",
+    "mocha": "~1"
   }
 }

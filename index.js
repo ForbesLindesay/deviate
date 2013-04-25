@@ -1,6 +1,6 @@
-var ert = require('ert').compile;
+var ert = require('ert').compileFn;
 
-
+module.exports = deviate;
 function deviate(status, path) {
   if (arguments.length === 1) {
     path = status;
