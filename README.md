@@ -1,5 +1,5 @@
-<img src="http://i.imgur.com/g3GNbqw.png" align="right"/>
 # deviate
+<img src="http://i.imgur.com/g3GNbqw.png" align="right"/>
 
 Redirecting middlware for express or node.js
 
