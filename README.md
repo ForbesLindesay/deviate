@@ -10,6 +10,7 @@ Redirecting middlware for express or node.js
 
 [![Build Status](https://travis-ci.org/ForbesLindesay/deviate.png?branch=master)](https://travis-ci.org/ForbesLindesay/deviate)
 [![Dependency Status](https://gemnasium.com/ForbesLindesay/deviate.png)](https://gemnasium.com/ForbesLindesay/deviate)
+[![NPM version](https://badge.fury.io/js/deviate.png)](http://badge.fury.io/js/deviate)
 
 ## Usage
 
