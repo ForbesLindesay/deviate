@@ -5,8 +5,17 @@
   "scripts": {
     "test": "mocha -R spec"
   },
-  "repository": { "type": "git", "url": "https://github.com/ForbesLindesay/deviate.git" },
-  "keywords": [ "express", "routing", "template", "redirect", "expression" ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/deviate.git"
+  },
+  "keywords": [
+    "express",
+    "routing",
+    "template",
+    "redirect",
+    "expression"
+  ],
   "author": "ForbesLindesay",
   "license": "MIT",
   "dependencies": {
