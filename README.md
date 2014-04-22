@@ -8,9 +8,9 @@ Redirecting middlware for express or node.js
 - uses `res.redirect` if it's used with express
 - falls back to manually writing the header elsewhere
 
-[![Build Status](https://travis-ci.org/ForbesLindesay/deviate.png?branch=master)](https://travis-ci.org/ForbesLindesay/deviate)
-[![Dependency Status](https://gemnasium.com/ForbesLindesay/deviate.png)](https://gemnasium.com/ForbesLindesay/deviate)
-[![NPM version](https://badge.fury.io/js/deviate.png)](http://badge.fury.io/js/deviate)
+[![Build Status](https://img.shields.io/travis/ForbesLindesay/deviate/master.svg)](https://travis-ci.org/ForbesLindesay/deviate)
+[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/deviate.svg)](https://gemnasium.com/ForbesLindesay/deviate)
+[![NPM version](https://img.shields.io/npm/v/deviate.svg)](http://badge.fury.io/js/deviate)
 
 ## Usage
 
