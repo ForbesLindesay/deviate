@@ -9,8 +9,8 @@ Redirecting middlware for express or node.js
 - falls back to manually writing the header elsewhere
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/deviate/master.svg)](https://travis-ci.org/ForbesLindesay/deviate)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/deviate.svg)](https://gemnasium.com/ForbesLindesay/deviate)
-[![NPM version](https://img.shields.io/npm/v/deviate.svg)](http://badge.fury.io/js/deviate)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/deviate.svg)](https://david-dm.org/ForbesLindesay/deviate)
+[![NPM version](https://img.shields.io/npm/v/deviate.svg)](https://www.npmjs.com/package/deviate)
 
 ## Usage
 
