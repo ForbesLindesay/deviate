@@ -22,8 +22,8 @@
     "ert": "~1.0"
   },
   "devDependencies": {
-    "hyperquest": "~0",
-    "express": "~3",
-    "mocha": "~1"
+    "hyperquest": "~2.1.2",
+    "express": "~4.14.1",
+    "mocha": "~3.2.0"
   }
 }
